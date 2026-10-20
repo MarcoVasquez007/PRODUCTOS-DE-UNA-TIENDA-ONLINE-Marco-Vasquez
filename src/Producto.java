@@ -13,4 +13,17 @@ public class Producto {
         this.disponible = disponible;
     }
 
+    public void setNombre(String nombre){
+        this.nombre = nombre;
+    }
+    public void setPrecio(double precio){
+        this.precio = precio;
+    }
+    public void setCategoria(String categoria){
+        this.categoria = categoria;
+    }
+    public void setDisponible(boolean disponible){
+        this.disponible = disponible;
+    }
+
 }
