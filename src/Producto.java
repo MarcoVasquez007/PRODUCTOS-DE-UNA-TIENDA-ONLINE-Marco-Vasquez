@@ -11,7 +11,6 @@ public class Producto {
         this.precio = precio;
         this.categoria = categoria;
         this.disponible = disponible;
-
     }
 
 }
